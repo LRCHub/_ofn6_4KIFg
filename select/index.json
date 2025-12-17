@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "まちぶせ",
+  "base_artist": "石川ひとみ",
+  "createdAt": "2025-12-17T08:04:26.996227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "荒井由実",
+      "has_synced": true,
+      "path": "select/01_まちぶせ_荒井由実.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "Hitomi Ishikawa",
+      "has_synced": true,
+      "path": "select/02_まちぶせ_Hitomi_Ishikawa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "Hitomi Ishikawa (石川ひとみ)",
+      "has_synced": true,
+      "path": "select/03_まちぶせ_Hitomi_Ishikawa_(石川ひとみ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/04_まちぶせ_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "石川ひとみ",
+      "has_synced": true,
+      "path": "select/05_まちぶせ_石川ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "Hitomi Ishikawa",
+      "has_synced": true,
+      "path": "select/06_まちぶせ_Hitomi_Ishikawa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/07_まちぶせ_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "石川ひとみ",
+      "has_synced": true,
+      "path": "select/08_まちぶせ_石川ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "Hitomi Ishikawa",
+      "has_synced": true,
+      "path": "select/09_まちぶせ_Hitomi_Ishikawa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "まちぶせ",
+      "artist": "JuJu",
+      "has_synced": true,
+      "path": "select/10_まちぶせ_JuJu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まちぶせ",
+      "artist": "石川 ひとみ",
+      "has_synced": false,
+      "path": "select/pl_01_まちぶせ_石川_ひとみ.txt"
+    }
+  ]
+}
